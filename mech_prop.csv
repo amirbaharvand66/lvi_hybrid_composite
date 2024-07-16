@@ -1,0 +1,249 @@
+label,f1,f2,f3,resin,resin_type,layup,mm,nft,nftm,impact_test,standard,vf1,vf2,vf3,vm,mass,v,e,ts,tm,fs,fm,it
+NN,Sisal,Cotton,,Isophthalic polyester,TS,,HL+CM,No,,Izod,ASTM D256,20.0,20.0,0.0,60.0,,,,64.00,0.54,270.40,3.60,0.04
+NN,Sisal,Cotton,,Isophthalic polyester,TS,,HL+CM,No,,Izod,ASTM D256,25.0,25.0,0.0,50.0,,,,42.45,0.45,230.45,3.10,0.04
+SS,Glass,Carbon,Aramid,Epoxy,TS,S,RTM,,,Drop weight,ASTM D7136,26.0,26.0,6.5,41.5,5.47,3.1,27,,,391.84,23.95,22.50
+SS,Glass,Carbon,Aramid,Epoxy,TS,S,RTM,,,Drop weight,ASTM D7136,13.0,26.0,13.0,48.0,5.47,3.1,27,,,411.67,27.91,21.96
+SS,Glass,Carbon,Aramid,Epoxy,TS,S,RTM,,,Drop weight,ASTM D7136,6.5,26.0,19.5,48.0,5.47,3.1,27,,,458.76,31.56,20.35
+S,Carbon,,,Epoxy,TS,,VI,,,Charpy,ASTM A370,61.0,0.0,0.0,39.0,,,,,120.00,800.00,100.00,21.76
+SN,Carbon,Flax,,Epoxy,TS,I,VI,No,,Charpy,ASTM A370,47.0,8.0,0.0,45.0,,,,,99.00,720.00,70.00,23.12
+N,Flax,,,Epoxy,TS,,VI,No,,Charpy,ASTM A370,38.0,0.0,0.0,62.0,,,,,18.00,200.00,18.00,2.72
+S,Glass,,,Unsaturated polyester,TS,,Sheet molding,,,Izod,ASTM D256,30.0,0.0,0.0,70.0,,,,42.00,1.80,,5.00,0.32
+N,Kenaf,,,Unsaturated polyester,TS,,Sheet molding,Yes,Alkali,Izod,ASTM D256,30.0,0.0,0.0,70.0,,,,39.00,2.30,,30.00,0.03
+SN,Glass,Kenaf,,Unsaturated polyester,TS,I,Sheet molding,Yes,Alkali,Izod,ASTM D256,15.0,15.0,0.0,70.0,,,,22.00,1.60,,12.00,0.60
+N,Basalt,,,Epoxy,TS,,VI,No,,Drop weight,ASTM D7136,28.2,0.0,0.0,71.8,1.25,7.7,36.75,,,339.01,12.55,16.70
+N,Hemp,,,Epoxy,TS,,VI,No,,Drop weight,ASTM D7136,20.2,0.0,0.0,79.8,1.25,7.7,36.75,,,188.26,7.45,8.20
+N,Flax,,,Epoxy,TS,,VI,No,,Drop weight,ASTM D7136,24.8,0.0,0.0,75.2,1.25,7.7,36.75,,,142.87,4.77,12.40
+SN,Glass,Flax,Basalt,Epoxy,TS,S,VI,No,,Drop weight,ASTM D7136,2.3,11.7,7.2,78.8,1.25,7.7,36.75,,,271.71,10.12,19.80
+SN,Glass,Hemp,Basalt,Epoxy,TS,S,VI,No,,Drop weight,ASTM D7136,2.6,8.6,11.4,77.5,1.25,7.7,36.75,,,149.92,5.30,14.30
+NN,Flax,Hemp,Basalt,Epoxy,TS,S,VI,No,,Drop weight,ASTM D7136,9.1,8.0,5.6,77.4,1.25,7.7,36.75,,,215.65,5.98,25.10
+S,Carbon,,,Epoxy,TS,,RTM,,,Drop weight,ASTM D7136,32.5,0.0,0.0,67.5,,,4.85,,,593.48,38.70,2.30
+N,Basalt,,,Epoxy,TS,,RTM,No,,Drop weight,ASTM D7136,31.5,0.0,0.0,68.5,,,4.85,,,229.34,14.35,1.84
+SN,Carbon,Basalt,,Epoxy,TS,I,RTM,No,,Drop weight,ASTM D7136,14.8,17.3,0.0,67.9,,,4.97,,,350.84,25.84,2.14
+SN,Carbon,Basalt,,Epoxy,TS,S,RTM,No,,Drop weight,ASTM D7136,14.8,17.3,0.0,67.9,,,4.96,,,418.68,24.20,2.27
+S,Glass,,,Epoxy,TS,,HL,,,Izod,ASTM D4812,22.4,0.0,0.0,77.6,,,,100.77,,,,2.18
+SN,Glass,Sisal,,Epoxy,TS,,HL,No,,Izod,ASTM D4812,3.4,18.8,0.0,77.8,,,,71.22,,,,1.43
+N,Sisal,,,Unsaturated polyester,TS,,HL,No,,Izod,ASTM D256,20.0,0.0,0.0,80.0,,,,19.60,,54.10,,0.43
+N,Bamboo,,,Unsaturated polyester,TS,,HL,No,,Izod,ASTM D256,20.0,0.0,0.0,80.0,,,,23.10,,55.40,,0.58
+NN,Sisal,Bamboo,,Unsaturated polyester,TS,,HL,Yes,Alkali,Izod,ASTM D256,10.0,10.0,0.0,80.0,,,,38.40,,78.20,,0.89
+SN,Glass,Bamboo,,Polypropylene,TP,,CM,No,,Izod,ASTM D256,20.0,40.0,0.0,40.0,,,,12.50,,,,0.06
+SN,Glass,Kenaf,,Polypropylene,TP,,CM,No,,Izod,ASTM D256,20.0,40.0,0.0,40.0,,,,12.00,,,,0.08
+SN,Glass,Kenaf,Bamboo,Polypropylene,TP,,CM,No,,Izod,ASTM D256,20.0,30.0,10.0,40.0,,,,18.00,,,,0.09
+N,Oil palm,,,Epoxy,TS,,,No,,Izod,ASTM D256,40.0,0.0,0.0,60.0,,,,,,41.70,2.30,0.30
+N,Jute,,,Epoxy,TS,,,No,,Izod,ASTM D256,40.0,0.0,0.0,60.0,,,,,,75.50,4.32,0.10
+NN,Jute,Oil palm,,Epoxy,TS,S,,No,,Izod,ASTM D256,32.0,8.0,0.0,60.0,,,,,,44.30,2.68,0.21
+N,Jute,,,Isothalic polyester,TS,,HL,No,,Izod,ASTM D256,36.0,0.0,0.0,64.0,,1.5,,80.19,9.58,121.80,7.64,4.05
+SN,Glass,Jute,,Isothalic polyester,TS,,HL,No,,Izod,ASTM D256,4.4,31.2,0.0,64.4,,1.5,,87.85,10.95,139.98,9.11,11.78
+SN,Glass,Jute,,Isothalic polyester,TS,,HL,No,,Izod,ASTM D256,9.1,23.0,0.0,67.9,,1.5,,109.90,11.29,159.80,11.06,21.59
+SN,Glass,Jute,,Isothalic polyester,TS,,HL,No,,Izod,ASTM D256,14.4,16.3,0.0,69.3,,1.5,,123.94,12.47,159.85,12.38,27.23
+NN,Banana,Sisal,,Unsaturated polyester,TS,,CM,No,,Izod,NA,9.5,9.5,0.0,81.0,,,25,38.00,1.35,47.50,2.25,0.50
+NN,Banana,Sisal,,Unsaturated polyester,TS,,CM,No,,Izod,NA,16.0,16.0,0.0,68.0,,,25,51.00,1.44,54.00,2.38,0.98
+NN,Banana,Sisal,,Unsaturated polyester,TS,,CM,No,,Izod,NA,20.0,20.0,0.0,60.0,,,25,57.50,1.60,62.50,2.84,1.23
+NN,Banana,Sisal,,Unsaturated polyester,TS,,RTM,No,,Izod,NA,10.5,10.5,0.0,79.0,,,25,51.50,1.62,57.50,2.28,0.42
+NN,Banana,Sisal,,Unsaturated polyester,TS,,RTM,No,,Izod,NA,14.5,14.5,0.0,71.0,,,25,61.50,1.87,67.50,2.51,0.86
+NN,Banana,Sisal,,Unsaturated polyester,TS,,RTM,No,,Izod,NA,21.0,21.0,0.0,58.0,,,25,72.50,1.94,80.00,3.01,1.16
+NN,Banana,Sisal,,Unsaturated polyester,TS,I,HL+CM,No,,Izod,NA,40.0,10.0,0.0,50.0,,,25,62.00,,52.00,,5.63
+SS,Glass,Carbon,,Unsaturated polyester,TS,S,HL,,,Izod,ASTM D256,7.1,43.2,0.0,49.7,,,150,105.00,,225.00,,2.35
+SS,Glass,Carbon,,Unsaturated polyester,TS,I,HL,,,Izod,ASTM D256,14.7,33.6,0.0,51.6,,,150,110.00,,255.00,,2.77
+SS,Glass,Carbon,,Unsaturated polyester,TS,I,HL,,,Izod,ASTM D256,23.0,23.3,0.0,53.7,,,150,98.00,,220.00,,2.22
+SN,Carbon,Basalt,,Unsaturated polyester,TS,S,HL,No,,Izod,ASTM D256,43.1,7.3,0.0,49.6,,,150,128.00,,405.00,,1.97
+SN,Carbon,Basalt,,Unsaturated polyester,TS,I,HL,No,,Izod,ASTM D256,33.5,15.1,0.0,51.4,,,150,145.00,,448.00,,1.78
+SN,Carbon,Basalt,,Unsaturated polyester,TS,I,HL,No,,Izod,ASTM D256,23.2,23.5,0.0,53.4,,,150,65.00,,145.00,,1.52
+SN,Glass,Basalt,,Unsaturated polyester,TS,S,HL,No,,Izod,ASTM D256,33.2,8.5,0.0,58.2,,,150,70.00,,155.00,,1.14
+SN,Glass,Basalt,,Unsaturated polyester,TS,I,HL,No,,Izod,ASTM D256,24.9,17.0,0.0,58.1,,,150,79.00,,175.00,,0.89
+SN,Glass,Basalt,,Unsaturated polyester,TS,I,HL,No,,Izod,ASTM D256,16.5,25.5,0.0,58.0,,,150,59.00,,125.00,,1.08
+SN,Glass,Sisal,,Polyester,TS,,HL+CM,No,,Izod,ASTM D256,2.8,21.1,0.0,76.1,,,,98.00,,138.00,,0.43
+SN,Glass,Sisal,,Polyester,TS,,HL+CM,Yes,Alkali,Izod,ASTM D256,2.8,21.1,0.0,76.1,,,,127.50,,148.00,,0.50
+SN,Glass,Sisal,,Polyester,TS,,HL+CM,Yes,Alkali,Izod,ASTM D256,2.8,21.1,0.0,76.1,,,,110.00,,140.00,,0.44
+SN,Glass,Sisal,,Polyester,TS,,HL+CM,Yes,Cyanoethylation,Izod,ASTM D256,2.8,21.1,0.0,76.1,,,,112.50,,150.00,,0.47
+SN,Glass,Sisal,,Polyester,TS,,HL+CM,Yes,Acetylation,Izod,ASTM D256,2.8,21.1,0.0,76.1,,,,117.50,,145.00,,0.50
+SN,Glass,Pineapple,,Polyester,TS,,HL+CM,No,,Izod,ASTM D256,6.5,10.7,0.0,82.8,,,,65.00,,140.00,,0.39
+SN,Glass,Sisal,,Orthophthalic polyester,TS,S,RTM,Yes,Alkali,Izod,ASTM D256,13.5,6.5,0.0,80.0,0.95,3.4,5.5,62.60,1.33,181.10,8.61,2.64
+N,Palmyra,,,Unsaturated polyester,TS,,CM,Yes,Alkali,Izod,ASTM D256,31.0,0.0,0.0,69.0,,,,25.90,2.28,105.49,15.32,1.42
+N,Jute,,,Unsaturated polyester,TS,,CM,Yes,Alkali,Izod,ASTM D256,29.3,0.0,0.0,70.7,,,,77.10,5.07,176.00,19.26,0.96
+NN,Jute,Palmyra,,Unsaturated polyester,TS,,CM,Yes,Alkali,Izod,ASTM D256,7.2,23.4,0.0,69.4,,,,60.30,2.84,116.83,16.83,1.36
+SN,Glass,Vetiver,,Vinylester,TS,,HL,No,,Izod,ASTM D256,7.8,16.7,0.0,75.5,,,,53.21,1.01,97.27,2.05,8.67
+SN,Glass,Vetiver,,Vinylester,TS,,HL,Yes,,Izod,ASTM D256,13.0,9.1,0.0,77.9,,,,64.42,2.45,120.06,3.22,16.67
+SN,Glass,Vetiver,,Vinylester,TS,,HL,Yes,,Izod,ASTM D256,7.8,16.7,0.0,75.6,,,,69.76,2.10,131.92,3.15,14.33
+SN,Glass,Vetiver,,Vinylester,TS,,HL,Yes,,Izod,ASTM D256,5.2,20.7,0.0,74.2,,,,60.89,1.85,124.27,3.67,12.67
+NN,Jute,Vetiver,,Vinylester,TS,,HL,Yes,,Izod,ASTM D256,15.0,14.0,0.0,71.0,,,,71.73,1.74,133.11,2.89,11.00
+NN,Jute,Vetiver,,Vinylester,TS,,HL,Yes,,Izod,ASTM D256,21.1,8.2,0.0,70.7,,,,63.30,1.65,114.79,3.61,10.33
+NN,Jute,Vetiver,,Vinylester,TS,,HL,Yes,,Izod,ASTM D256,8.9,19.9,0.0,71.3,,,,65.12,1.87,121.31,3.05,11.67
+SN,Glass,Jute,Vetiver,Vinylester,TS,,HL,Yes,,Izod,ASTM D256,4.1,11.8,11.0,73.1,,,,74.14,2.11,131.90,3.36,15.33
+SN,Glass,Jute,Vetiver,Vinylester,TS,,HL,Yes,,Izod,ASTM D256,7.3,9.3,8.7,74.7,,,,7.96,2.32,137.60,2.95,18.33
+S,Carbon,,,Phenolic,TS,,HL,,,Charpy,ASTM D6110,38.8,0.0,0.0,61.2,,,,,,477.23,40.64,2.10
+N,Basalt,,,Phenolic,TS,,HL,No,,Charpy,ASTM D6110,31.8,0.0,0.0,68.2,,,,,,426.31,16.00,8.04
+SN,Carbon,Basalt,,Phenolic,TS,S,HL,No,,Charpy,ASTM D6110,27.1,9.1,0.0,63.9,,,,,,461.82,28.68,3.30
+SN,Carbon,Basalt,,Phenolic,TS,I,HL,No,,Charpy,ASTM D6110,16.9,17.2,0.0,65.9,,,,,,444.21,23.27,50.52
+SN,Carbon,Basalt,,Phenolic,TS,I,HL,No,,Charpy,ASTM D6110,14.0,19.3,0.0,66.6,,,,,,438.12,21.28,5.45
+SN,Carbon,Basalt,,Phenolic,TS,I,HL,No,,Charpy,ASTM D6110,7.8,24.8,0.0,67.4,,,,,,435.15,17.67,6.57
+S,Glass,,,Epoxy,TS,,HL+CM,,,Charpy,ASTM D6110,50.0,0.0,0.0,50.0,8.36,2.16,19.502208,,,510.00,28.00,0.71
+N,Basalt,,,Epoxy,TS,,HL+CM,No,,Charpy,ASTM D6110,55.4,0.0,0.0,44.6,8.36,2.16,19.502208,,,560.00,30.00,1.46
+S,Carbon,,,Epoxy,TS,,HL+CM,,,Charpy,ASTM D6110,65.5,0.0,0.0,34.5,8.36,2.16,19.502208,,,570.00,65.00,0.81
+SN,Carbon,Basalt,,Epoxy,TS,I,HL+CM,No,,Charpy,ASTM D6110,51.1,15.4,0.0,33.5,8.36,2.16,19.502208,,,850.00,61.00,1.53
+SN,Carbon,Basalt,,Epoxy,TS,I,HL+CM,No,,Charpy,ASTM D6110,38.4,27.1,0.0,34.5,8.36,2.16,19.502208,,,730.00,48.00,1.44
+SN,Carbon,Basalt,,Epoxy,TS,I,HL+CM,No,,Charpy,ASTM D6110,24.4,39.9,0.0,35.7,8.36,2.16,19.502208,,,700.00,42.00,2.24
+SN,Glass,Basalt,,Epoxy,TS,I,HL+CM,No,,Charpy,ASTM D6110,13.9,46.6,0.0,39.5,8.36,2.16,19.502208,,,870.00,60.00,0.95
+SN,Glass,Basalt,,Epoxy,TS,I,HL+CM,No,,Charpy,ASTM D6110,25.5,36.6,0.0,37.9,8.36,2.16,19.502208,,,740.00,47.00,0.59
+SN,Glass,Basalt,,Epoxy,TS,I,HL+CM,No,,Charpy,ASTM D6110,38.1,23.4,0.0,38.5,8.36,2.16,19.502208,,,775.00,41.00,1.39
+S,Carbon,,,Epoxy,TS,,CM,,,Charpy,NA,60.0,0.0,0.0,40.0,,,2.7,1220.00,,1430.00,,0.46
+SS,Carbon,Aramid,,Epoxy,TS,I,CM,,,Charpy,NA,40.0,20.0,0.0,40.0,,,2.7,1250.00,,1150.00,,1.05
+SS,Carbon,Aramid,,Epoxy,TS,S,CM,,,Charpy,NA,20.0,40.0,0.0,40.0,,,2.7,,,954.00,,1.33
+S,Aramid,,,Epoxy,TS,,CM,,,Charpy,NA,60.0,0.0,0.0,40.0,,,2.7,1660.00,,580.00,,1.62
+SS,Glass,Carbon,,Epoxy,TS,I,VI,,,Charpy,ASTM E23,37.0,24.0,0.0,39.0,,,2.7,418.58,33.07,,,2.70
+SS,Glass,Carbon,,Epoxy,TS,I,VI,,,Charpy,ASTM E23,38.0,24.3,0.0,37.7,,,4.1,527.49,33.63,,,4.10
+SS,Glass,Carbon,,Epoxy,TS,I,VI,,,Charpy,ASTM E23,38.6,25.1,0.0,36.3,,,5.2,610.81,34.58,,,5.20
+SS,Glass,Carbon,,Vinylester,TS,I,RTM,,,Drop weight,ASTM D7136,40.9,17.1,0.0,42.0,,,5,,,313.90,26.40,1.33
+SS,Glass,Carbon,,Vinylester,TS,I,RTM,,,Drop weight,ASTM D7136,38.7,19.3,0.0,42.0,,,5,,,390.80,25.50,0.99
+SS,Glass,Carbon,,Vinylester,TS,I,RTM,,,Drop weight,ASTM D7136,38.7,19.3,0.0,42.0,,,5,,,669.30,25.96,0.82
+S,Carbon,,,Epoxy,TS,,HL+CM,,,Izod,ASTM D256,60.0,0.0,0.0,40.0,,,,474.00,43.00,,,14.00
+S,Glass,,,Epoxy,TS,,HL+CM,,,Izod,ASTM D256,60.0,0.0,0.0,40.0,,,,248.00,15.00,,,12.00
+S,Aramid,,,Epoxy,TS,,HL+CM,,,Izod,ASTM D256,60.0,0.0,0.0,40.0,,,,362.00,14.00,,,20.00
+SS,Glass,Carbon,,Epoxy,TS,S,HL+CM,,,Izod,ASTM D256,30.0,30.0,0.0,40.0,,,,473.00,38.00,,,20.00
+SS,Glass,Carbon,,Epoxy,TS,S,HL+CM,,,Izod,ASTM D256,30.0,30.0,0.0,40.0,,,,413.00,37.00,,,10.00
+SS,Glass,Aramid,,Epoxy,TS,S,HL+CM,,,Izod,ASTM D256,30.0,30.0,0.0,40.0,,,,473.00,21.00,,,22.00
+SS,Glass,Aramid,,Epoxy,TS,S,HL+CM,,,Izod,ASTM D256,30.0,30.0,0.0,40.0,,,,344.00,9.00,,,36.00
+SS,Glass,Carbon,,Epoxy,TS,I,HL+CM,,,Izod,ASTM D256,30.0,30.0,0.0,40.0,,,,127.00,13.00,,,10.00
+SS,Glass,Aramid,,Epoxy,TS,I,HL+CM,,,Izod,ASTM D256,30.0,30.0,0.0,40.0,,,,318.00,14.00,,,18.00
+SN,Carbon,Jute,,Epoxy,TS,S,HL,Yes,Alkali,Charpy,ASTM A370,16.0,24.0,0.0,60.0,25.00,,,275.00,,380.00,5.49,28.00
+SN,Carbon,Jute,,Epoxy,TS,S,HL,No,,Charpy,ASTM A370,16.0,24.0,0.0,60.0,25.00,,,149.00,,200.00,4.21,16.00
+SN,Carbon,Banana,,Epoxy,TS,S,HL,Yes,Alkali,Charpy,ASTM A370,16.0,24.0,0.0,60.0,25.00,,,169.00,,240.00,4.81,18.00
+SN,Carbon,Banana,,Epoxy,TS,S,HL,No,,Charpy,ASTM A370,16.0,24.0,0.0,60.0,25.00,,,105.00,,168.00,4.05,11.00
+SN,Carbon,Jute,Banana,Epoxy,TS,S,HL,Yes,Alkali,Charpy,ASTM A370,16.0,16.0,8.0,60.0,25.00,,,238.00,,310.00,5.21,24.00
+SN,Carbon,Jute,Banana,Epoxy,TS,S,HL,No,,Charpy,ASTM A370,16.0,16.0,8.0,60.0,25.00,,,135.00,,183.00,4.17,14.00
+SN,Carbon,Jute,Banana,Epoxy,TS,S,HL,Yes,Alkali,Charpy,ASTM A370,16.0,8.0,16.0,60.0,25.00,,,218.00,,280.00,4.91,20.00
+SN,Carbon,Jute,Banana,Epoxy,TS,S,HL,No,,Charpy,ASTM A370,16.0,8.0,16.0,60.0,25.00,,,118.00,,178.00,4.10,12.00
+N,Banana,,,Epoxy,TS,,HL,Yes,Alkali,Charpy,ASTM A370,40.0,0.0,0.0,60.0,25.00,,,155.00,,200.00,4.33,13.00
+N,Banana,,,Epoxy,TS,,HL,No,,Charpy,ASTM A370,40.0,0.0,0.0,60.0,25.00,,,92.00,,133.00,4.09,9.00
+N,Jute,,,Epoxy,TS,,HL,Yes,Alkali,Charpy,ASTM A370,40.0,0.0,0.0,60.0,25.00,,,168.00,,210.00,4.65,14.00
+N,Jute,,,Epoxy,TS,,HL,No,,Charpy,ASTM A370,40.0,0.0,0.0,60.0,25.00,,,99.00,,145.00,3.99,10.00
+SS,Carbon,Aramid,,Epoxy,TS,S,VI,,,Charpy,ASTM D6110,49.3,24.7,0.0,26.0,,,12,164.81,5.44,,,1.33
+SS,Carbon,Aramid,,Epoxy,TS,I,VI,,,Charpy,ASTM D6110,45.0,30.0,0.0,25.0,,,12,220.95,5.29,,,2.20
+SS,Carbon,Aramid,,Epoxy,TS,I,VI,,,Charpy,ASTM D6110,43.1,32.3,0.0,24.6,,,12,298.20,4.62,,,2.56
+SS,Glass,Carbon,,Epoxy,TS,S,VI,,,Charpy,ASTM D6110,21.5,43.0,0.0,35.5,,,12,83.71,2.25,,,2.66
+SS,Glass,Carbon,,Epoxy,TS,I,VI,,,Charpy,ASTM D6110,25.7,38.6,0.0,35.7,,,12,62.55,1.63,,,6.30
+SS,Glass,Carbon,,Epoxy,TS,I,VI,,,Charpy,ASTM D6110,27.3,36.5,0.0,36.2,,,12,54.00,2.14,,,9.30
+S,Carbon,,,Epoxy,TS,,Prepreg press molding,,,NA,NA,50.0,0.0,0.0,50.0,23.45,1.02,12.2,511.00,,,,1.30
+S,Aramid,,,Epoxy,TS,,Prepreg press molding,,,NA,NA,50.0,0.0,0.0,50.0,23.45,1.02,12.2,493.00,,,,2.63
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,33.3,16.7,0.0,50.0,23.45,1.02,12.2,462.00,,,,1.68
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,16.7,33.3,0.0,50.0,23.45,1.02,12.2,561.00,,,,2.38
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,28.6,21.4,0.0,50.0,23.45,1.02,12.2,603.00,,,,1.88
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,21.4,28.6,0.0,50.0,23.45,1.02,12.2,432.00,,,,1.95
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,27.3,22.7,0.0,50.0,23.45,1.02,12.2,516.00,,,,1.73
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,22.7,27.3,0.0,50.0,23.45,1.02,12.2,463.00,,,,1.78
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,26.7,23.3,0.0,50.0,23.45,1.02,12.2,412.00,,,,1.60
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,23.3,26.7,0.0,50.0,23.45,1.02,12.2,464.00,,,,1.63
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,26.1,23.9,0.0,50.0,23.45,1.02,12.2,621.00,,,,1.63
+SS,Carbon,Aramid,,Epoxy,TS,I,Prepreg press molding,,,NA,NA,23.9,26.1,0.0,50.0,23.45,1.02,12.2,660.00,,,,1.75
+SN,Glass,Kenaf,,Unsaturated polyester,TS,S,HL,No,,Izod,ASTM D256,4.9,4.2,0.0,90.9,,,,,,125.00,5.50,0.34
+SN,Glass,Kenaf,,Unsaturated polyester,TS,S,HL,No,,Izod,ASTM D256,4.9,8.5,0.0,86.6,,,,,,150.00,6.50,0.38
+SN,Glass,Kenaf,,Unsaturated polyester,TS,S,HL,No,,Izod,ASTM D256,4.9,12.9,0.0,82.2,,,,,,160.00,7.70,0.41
+SN,Glass,Kenaf,,Unsaturated polyester,TS,S,HL,No,,Izod,ASTM D256,4.9,17.4,0.0,77.7,,,,,,175.00,9.20,0.48
+SN,Glass,Kenaf,,Unsaturated polyester,TS,S,HL,No,,Izod,ASTM D256,4.9,22.1,0.0,73.1,,,,,,170.00,8.80,0.45
+SN,Glass,Kenaf,,Unsaturated polyester,TS,I,HL,No,,Izod,ASTM D256,2.4,26.0,0.0,71.6,,,,,,165.00,7.70,0.44
+N,Banana,,,Epoxy,TS,,CM,No,,Izod,ASTM D4812,31.0,0.0,0.0,69.0,,,,21.00,0.62,56.00,,7.60
+SN,Glass,Banana,,Epoxy,TS,S,CM,No,,Izod,ASTM D4812,8.0,20.0,0.0,72.0,,,,46.00,1.42,132.00,,10.20
+SN,Glass,Banana,,Epoxy,TS,I,CM,No,,Izod,ASTM D4812,14.0,16.0,0.0,70.0,,,,88.00,1.94,176.00,,12.50
+N,Sisal,,,Epoxy,TS,,CM,No,,Izod,ASTM D4812,29.0,0.0,0.0,71.0,,,,23.00,0.67,61.00,,8.40
+SN,Glass,Sisal,,Epoxy,TS,S,CM,No,,Izod,ASTM D4812,9.0,21.0,0.0,70.0,,,,52.00,1.57,159.00,,11.70
+SN,Glass,Sisal,,Epoxy,TS,I,CM,No,,Izod,ASTM D4812,13.0,15.0,0.0,72.0,,,,93.00,2.21,184.00,,13.30
+NN,Banana,Sisal,,Epoxy,TS,I,CM,No,,Izod,ASTM D4812,16.0,15.0,0.0,69.0,,,,25.00,0.75,62.00,,7.40
+SN,Glass,Banana,Sisal,Epoxy,TS,I,CM,No,,Izod,ASTM D4812,8.00,12.00,11.00,69.00,,,,64.00,1.63,192.00,,11.30
+SN,Glass,Banana,Sisal,Epoxy,TS,I,CM,No,,Izod,ASTM D4812,14.00,7.00,6.00,73.00,,,,104.00,2.35,163.00,,12.80
+SN,Carbon,Jute,,Epoxy,TS,S,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,571.00,,170.00,,2.91
+SN,Carbon,Jute,,Epoxy,TS,S,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,267.00,,130.00,,2.14
+SN,Carbon,Jute,,Epoxy,TS,S,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,160.00,,70.00,,1.38
+SN,Carbon,Jute,,Epoxy,TS,I,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,548.00,,260.00,,3.01
+SN,Carbon,Jute,,Epoxy,TS,I,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,250.00,,200.00,,2.09
+SN,Carbon,Jute,,Epoxy,TS,I,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,151.00,,80.00,,1.33
+SN,Carbon,Jute,,Epoxy,TS,I,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,510.00,,350.00,,2.96
+SN,Carbon,Jute,,Epoxy,TS,I,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,231.00,,250.00,,2.04
+SN,Carbon,Jute,,Epoxy,TS,I,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,147.00,,90.00,,1.38
+SN,Carbon,Jute,,Epoxy,TS,S,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,496.00,,455.00,,3.06
+SN,Carbon,Jute,,Epoxy,TS,S,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,231.00,,295.00,,2.24
+SN,Carbon,Jute,,Epoxy,TS,S,VI,No,,Charpy,ASTM D6110,16.0,30.0,0.0,54.0,,,,140.00,,105.00,,1.43
+SN,Glass,Empty fruit bunch,,Vinylester,TS,S,RTM,No,,Izod,ASTM D256,,,,,,,11,55.00,0.55,140.00,4.00,9.90
+SN,Glass,Empty fruit bunch,,Vinylester,TS,I,RTM,No,,Izod,ASTM D256,,,,,,,11,50.00,0.50,190.00,5.00,10.80
+SN,Glass,Empty fruit bunch,,Vinylester,TS,S,RTM,No,,Izod,ASTM D256,,,,,,,11,100.00,0.65,100.00,3.50,10.35
+SN,Glass,Empty fruit bunch,,Vinylester,TS,S,RTM,No,,Izod,ASTM D256,,,,,,,11,85.00,0.85,240.00,8.00,9.00
+SN,Glass,Empty fruit bunch,,Vinylester,TS,I,RTM,No,,Izod,ASTM D256,,,,,,,11,70.00,0.80,240.00,7.00,8.55
+SN,Glass,Empty fruit bunch,,Vinylester,TS,S,RTM,No,,Izod,ASTM D256,,,,,,,11,60.00,0.75,230.00,8.00,7.20
+S,Glass,,,Vinylester,TS,,RTM,,,Izod,ASTM D256,,,,,,,11,90.00,0.85,200.00,6.50,9.90
+N,Jute,,,Epoxy,TS,,HL,No,,Izod,ASTM D256,,,,,,,,29.52,,28.18,1.25,3.44
+SN,Glass,Jute,,Epoxy,TS,S,HL,No,,Izod,ASTM D256,,,,,,,,49.80,,28.74,1.19,3.53
+SN,Glass,Jute,,Epoxy,TS,S,HL,No,,Izod,ASTM D256,,,,,,,,56.68,,28.81,1.83,5.49
+N,Palmyra,,,Unsaturated polyester,TS,,CM,Yes,Alkali,Izod,ASTM D256,29.1,0.0,0.0,70.9,,,,56.90,2.28,105.00,15.41,1.53
+S,Glass,,,Unsaturated polyester,TS,,CM,No,,Izod,ASTM D256,16.3,0.0,0.0,83.8,,,,91.84,4.11,180.00,5.78,3.12
+SN,Glass,Palmyra,,Unsaturated polyester,TS,,CM,Yes,Alkali,Izod,ASTM D256,3.6,22.7,0.0,73.7,,,,70.58,3.32,146.00,6.53,2.03
+SN,Glass,Palmyra,,Unsaturated polyester,TS,,CM,Yes,Alkali,Izod,ASTM D256,7.5,15.8,0.0,76.8,,,,82.96,3.16,151.00,6.05,2.15
+SN,Glass,Palmyra,,Unsaturated polyester,TS,,CM,Yes,Alkali,Izod,ASTM D256,11.7,8.2,0.0,80.1,,,,88.78,4.03,173.00,5.49,2.43
+N,Jute,,,Unsaturated polyester,TS,,HL+CM,Yes,Alkali,Charpy,NA,14.3,0.0,0.0,85.8,,,,21.30,3.12,29.82,3.67,0.28
+S,Glass,,,Unsaturated polyester,TS,,HL+CM,No,,Charpy,NA,9.2,0.0,0.0,90.9,,,,157.71,5.51,251.20,6.39,2.70
+SN,Glass,Jute,,Unsaturated polyester,TS,S,HL+CM,Yes,Alkali,Charpy,NA,5.9,5.0,0.0,89.2,,,,78.61,4.26,146.33,5.85,1.44
+SN,Glass,Jute,,Unsaturated polyester,TS,S,HL+CM,Yes,Alkali,Charpy,NA,4.3,7.3,0.0,88.3,,,,48.72,3.82,94.03,5.16,1.66
+N,Basalt,,,Epoxy,TS,,RTM,No,,NA,NA,33.0,0.0,0.0,67.0,6.93,1.2,5,,,229.34,14.35,1.84
+S,Aramid,,,Epoxy,TS,,RTM,,,NA,NA,33.0,0.0,0.0,67.0,6.93,1.2,5,,,219.37,17.57,2.17
+SN,Aramid,Basalt,,Epoxy,TS,S,RTM,,,NA,NA,15.2,17.8,0.0,67.0,6.93,1.2,5,,,219.59,16.97,2.22
+SN,Aramid,Basalt,,Epoxy,TS,I,RTM,,,NA,NA,10.2,15.2,0.0,74.6,6.93,1.2,5,,,274.17,17.43,2.22
+N,Jute,,,Polyester,TS,,VI,No,,Charpy,BS EN ISO 179,16.0,0.0,0.0,84.0,,,12,37.84,,,,0.64
+S,Glass,,,Polyester,TS,,VI,No,,Charpy,BS EN ISO 179,44.0,0.0,0.0,56.0,,,12,262.46,,,,1.83
+S,Carbon,,,Polyester,TS,,VI,No,,Charpy,BS EN ISO 179,52.0,0.0,0.0,48.0,,,12,400.06,,,,1.89
+SN,Glass,Jute,,Polyester,TS,I,VI,No,,Charpy,BS EN ISO 179,12.0,21.0,0.0,67.0,,,12,117.96,,,,1.95
+SN,Glass,Jute,,Polyester,TS,S,VI,No,,Charpy,BS EN ISO 179,12.5,22.5,0.0,65.0,,,12,108.06,,,,1.48
+SN,Glass,Jute,,Polyester,TS,S,VI,No,,Charpy,BS EN ISO 179,12.5,22.5,0.0,65.0,,,12,101.65,,,,3.08
+SN,Carbon,Jute,,Polyester,TS,I,VI,No,,Charpy,BS EN ISO 179,16.0,20.0,0.0,64.0,,,12,223.46,,,,1.98
+SN,Carbon,Jute,,Polyester,TS,S,VI,No,,Charpy,BS EN ISO 179,17.0,21.0,0.0,62.0,,,12,329.40,,,,1.81
+SN,Carbon,Jute,,Polyester,TS,S,VI,No,,Charpy,BS EN ISO 179,17.0,22.0,0.0,61.0,,,12,145.47,,,,2.31
+N,Jute,,,Epoxy,TP,,VI,No,,Drop weight,ISO 6603,30.0,0.0,0.0,70.0,4,2.24,10,,,80.00,,7.12
+NN,Jute,Basalt,,Epoxy,TP,S,VI,No,,Drop weight,ISO 6603,12.0,18.0,0.0,70.0,4,2.24,10,,,160.00,,7.29
+NN,Jute,Basalt,,Epoxy,TP,I,VI,No,,Drop weight,ISO 6603,12.0,18.0,0.0,70.0,4,2.24,10,,,100.00,,7.19
+S,Glass,,,Polypropylene,TP,,Hot press molding,,,Drop weight,ASTM D7136,23.5,0.0,0.0,76.5,,,5,82.00,4.50,,,4.60
+SN,Glass,Kenaf,,Polypropylene,TP,S,Hot press molding,,,Drop weight,ASTM D7136,15.7,7.0,0.0,77.3,,,5,72.00,3.50,,,3.60
+SN,Glass,Kenaf,,Polypropylene,TP,S,Hot press molding,,,Drop weight,ASTM D7136,7.8,14.1,0.0,78.1,,,5,39.00,2.70,,,3.60
+N,Kenaf,,,Polypropylene,TP,,Hot press molding,,,Drop weight,ASTM D7136,21.1,0.0,0.0,78.9,,,5,32.00,2.50,,,2.20
+N,Banana,,,Polypropylene,TP,,Hot press molding,No,,Drop weight,ASTM D7136,24.4,0.0,0.0,75.6,10.121,4.5,102.48,38.55,0.41,55.59,1.67,7.00
+SN,Glass,Banana,,Polypropylene,TP,S,Hot press molding,No,,Drop weight,ASTM D7136,7.7,15.3,0.0,77.0,10.121,4.5,102.48,75.87,0.49,57.15,2.29,10.72
+SN,Glass,Banana,,Polypropylene,TP,S,Hot press molding,No,,Drop weight,ASTM D7136,12.9,6.5,0.0,80.7,10.121,4.5,102.48,136.28,3.61,65.32,3.12,20.20
+S,Glass,,,Polypropylene,TP,,Hot press molding,,,Drop weight,ASTM D7136,18.9,0.0,0.0,81.1,10.121,4.5,102.48,190.66,5.45,66.98,4.50,38.28
+S,Glass,,,Epoxy,TP,,VI,,,Drop weight,ASTM D7136,46.5,0.0,0.0,53.5,,,20,450.00,5.92,500.00,17.32,12.62
+N,Jute,,,Epoxy,TP,,VI,No,,Drop weight,ASTM D7136,26.9,0.0,0.0,73.1,,,20,70.40,1.39,84.00,1.39,3.18
+N,Flax,,,Epoxy,TP,,VI,No,,Drop weight,ASTM D7136,37.9,0.0,0.0,62.1,,,20,95.40,1.49,95.00,2.96,12.77
+SN,Glass,Jute,,Epoxy,TP,,VI,No,,Drop weight,ASTM D7136,23.9,13.5,0.0,62.6,,,20,239.00,3.01,348.00,14.16,14.25
+SN,Glass,Jute,,Epoxy,TP,,VI,No,,Drop weight,ASTM D7136,23.9,13.5,0.0,62.6,,,20,233.00,2.89,171.00,5.52,15.37
+SN,Glass,Flax,,Epoxy,TP,,VI,No,,Drop weight,ASTM D7136,30.5,13.7,0.0,55.8,,,20,372.00,3.42,418.00,17.68,13.52
+SN,Glass,Flax,,Epoxy,TP,,VI,No,,Drop weight,ASTM D7136,30.0,13.7,0.0,56.3,,,20,358.00,3.43,258.00,6.46,13.77
+SN,Aramid,Kenaf,,Epoxy,TS,S,HL,No,,Izod,ASTM D256,22.7,6.5,0.0,70.8,,,,250.00,3.40,15.00,1.00,35.00
+SN,Aramid,Kenaf,,Epoxy,TS,S,HL,No,,Izod,ASTM D256,19.7,11.8,0.0,68.6,,,,150.00,2.90,20.00,1.00,24.00
+SN,Aramid,Kenaf,,Epoxy,TS,S,HL,No,,Izod,ASTM D256,14.2,14.5,0.0,71.2,,,,100.00,1.00,12.00,0.20,20.00
+SN,Aramid,Kenaf,,Epoxy,TS,S,HL,No,,Izod,ASTM D256,7.9,22.8,0.0,69.3,,,,50.00,0.55,10.00,0.20,35.00
+SN,Aramid,Kenaf,,Epoxy,TS,S,HL,No,,Izod,ASTM D256,9.1,19.8,0.0,71.1,,,,55.00,0.75,12.50,0.25,20.00
+S,Aramid,,,Epoxy,TS,,HL,,,Izod,ASTM D256,29.9,0.0,0.0,70.1,,,,275.00,2.75,32.50,3.00,1.00
+N,Kenaf,,,Epoxy,TS,,HL,No,,Izod,ASTM D256,33.4,0.0,0.0,66.6,,,,20.00,0.50,7.00,0.30,10.00
+N,Jute,,,Epoxy,TS,,HL,No,,Izod,ASTM D256,31.1,0.0,0.0,68.9,,,,,,75.50,4.32,0.10
+NN,Jute,Empty fruit bunch,,Epoxy,TS,,HL,No,,Izod,ASTM D256,7.6,25.4,0.0,67.1,,,,,,45.50,3.42,0.17
+NN,Jute,Empty fruit bunch,,Epoxy,TS,,HL,No,,Izod,ASTM D256,18.6,15.6,0.0,65.9,,,,,,56.30,3.63,0.13
+NN,Jute,Empty fruit bunch,,Epoxy,TS,,HL,No,,Izod,ASTM D256,29.2,6.1,0.0,64.7,,,,,,59.40,4.20,0.12
+N,Empty fruit bunch,,,Epoxy,TS,,HL,No,,Izod,ASTM D256,36.1,0.0,0.0,63.9,,,,,,41.70,2.30,0.28
+N,Flax,,,Epoxy,TS,,VI,No,,,,29.0,0.0,0.0,71.0,,,,95.15,7.07,,,
+SN,Carbon,Flax,,Epoxy,TS,I,VI,No,,,,8.0,31.0,0.0,61.0,,,,163.96,10.94,,,
+SN,Carbon,Flax,,Epoxy,TS,I,VI,No,,,,14.0,29.0,0.0,57.0,,,,224.63,14.59,,,
+SN,Carbon,Flax,,Epoxy,TS,I,VI,No,,,,14.0,29.0,0.0,57.0,,,,238.75,16.48,,,
+SN,Carbon,Flax,,Epoxy,TS,S,VI,No,,,,15.0,31.0,0.0,54.0,,,,229.43,17.28,,,
+SN,Carbon,Flax,,Epoxy,TS,I,VI,No,,,,13.0,28.0,0.0,59.0,,,,237.21,17.05,,,
+N,Flax,,,Epoxy,TS,,Prepreg press molding,No,,,,56.0,0.0,0.0,44.0,,,,,,95.66,4.78,
+S,Carbon,,,Epoxy,TS,,Prepreg press molding,No,,,,59.0,0.0,0.0,41.0,,,,,,464.00,52.82,
+SN,Carbon,Flax,,Epoxy,TS,S,Prepreg press molding,No,,,,29.0,29.0,0.0,42.0,,,,,,425.00,17.90,
+N,Flax,,,Phenolic,TS,,RTM,No,,,,67.0,0.0,0.0,33.0,,,,240.00,29.04,,,
+SN,Glass,Flax,,Phenolic,TS,S,RTM,No,,,,9.4,57.6,0.0,33.0,,,,330.00,32.28,,,
+SN,Glass,Flax,,Phenolic,TS,I,RTM,No,,,,20.8,46.2,0.0,33.0,,,,405.00,36.44,,,
+SN,Glass,Flax,,Phenolic,TS,I,RTM,No,,,,33.5,33.5,0.0,33.0,,,,450.00,40.88,,,
+SN,Glass,Flax,,Phenolic,TS,I,RTM,No,,,,48.9,18.1,0.0,33.0,,,,550.00,44.99,,,
+SN,Glass,Flax,,Phenolic,TS,I,RTM,No,,,,32.0,35.0,0.0,33.0,,,,450.10,40.10,,,
+SN,Glass,Flax,,Phenolic,TS,I,RTM,No,,,,32.0,35.0,0.0,33.0,,,,412.50,40.80,,,
+SN,Glass,Flax,,Phenolic,TS,S,RTM,No,,,,32.0,35.0,0.0,33.0,,,,392.50,39.70,,,
+N,Flax,,,Epoxy,TS,,HL,No,,,,,,,,,,,,,120.00,3.40,
+SN,Glass,Flax,,Epoxy,TS,I,HL,No,,,,,,,,,,,,,367.00,9.30,
+SN,Glass,Flax,,Epoxy,TS,I,HL,No,,,,,,,,,,,,,300.00,8.80,
+SN,Glass,Flax,,Epoxy,TS,S,HL,No,,,,,,,,,,,,,167.00,4.80,
+SN,Glass,Flax,,Epoxy,TS,S,HL,No,,,,,,,,,,,,,385.00,11.80,
+SN,Glass,Flax,,Epoxy,TS,I,HL,No,,,,,,,,,,,,,270.00,8.20,
+SN,Glass,Flax,,Epoxy,TS,I,HL,No,,,,,,,,,,,,,350.00,10.90,
