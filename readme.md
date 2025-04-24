@@ -1,4 +1,4 @@
-# A Review of Interlayer Hybrid Fiber Composites for Wind Turbine Blades with Emphasis on Impact Loads: Damage Tolerance and Alternatives to Glass Composite
+# A Review of Damage Tolerance and Mechanical Behavior of Interlayer Hybrid Fiber Composites for Wind Turbine Blades
 ## Mechanical Properties Data (mech_prop.csv)
 Data headers:
 
