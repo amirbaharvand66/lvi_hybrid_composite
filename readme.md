@@ -53,4 +53,4 @@ Data headers:
 - f1..f2: fiber 1..fiber 3 used in a composite
 
 ## Cite
-Amir Baharvand, Julie J.E. Teuwen, Roberto Lopez-Anido, Amrit Shankar Verma, *[A Review of Interlayer Hybrid Fiber Composites for Wind Turbine Blades with Emphasis on Impact Loads: Damage Tolerance and Alternatives to Glass Composite]()*.
+Amir Baharvand, Julie J.E. Teuwen, Amrit Shankar Verma, *[A Review of Interlayer Hybrid Fiber Composites for Wind Turbine Blades with Emphasis on Impact Loads: Damage Tolerance and Alternatives to Glass Composite]()*.
