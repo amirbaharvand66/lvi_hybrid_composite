@@ -1,4 +1,4 @@
-# A Review of Damage Tolerance and Mechanical Behavior of Interlayer Hybrid Fiber Composites for Wind Turbine Blades
+# *[A Review of Damage Tolerance and Mechanical Behavior of Interlayer Hybrid Fiber Composites for Wind Turbine Blades](https://www.mdpi.com/1996-1944/18/10/2214)*
 ## Mechanical Properties Data (mech_prop.csv)
 Data headers:
 
@@ -52,5 +52,5 @@ Data headers:
     - SS: synthetic/synthetic
 - f1..f2: fiber 1..fiber 3 used in a composite
 
-## Cite
-Amir Baharvand, Julie J.E. Teuwen, Amrit Shankar Verma, *[A Review of Damage Tolerance and Mechanical Behavior of Interlayer Hybrid Fiber Composites for Wind Turbine Blades]()*.
+## Cite (APA Style)
+Amir Baharvand, Julie J.E. Teuwen, Amrit Shankar Verma (2025). A Review of Damage Tolerance and Mechanical Behavior of Interlayer Hybrid Fiber Composites for Wind Turbine Blades. *Materials*, 18(10), 2214. https://doi.org/10.3390/ma18102214
